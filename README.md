@@ -57,7 +57,7 @@
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/ваш-username/tourvoice-assistant.git
+git clone https://github.com/Respectedguest/TVA.git
 cd tourvoice-assistant
 ```
 
